@@ -18,8 +18,8 @@ from nltk.stem.porter import PorterStemmer
 from spellchecker import SpellChecker
 from textblob import TextBlob
 
-consumer_key = 'D2ODhkO8XelW1GMADfgJd9xzv'
-consumer_secret = 'BGuYPX18vVOkug9A3OLMo7JQhWVeWsISPfuhq9EhIbW23g3Rll'
+consumer_key = '--' #insert the key
+consumer_secret = '--' #insert the key
 callback_uri = 'oob'
 
 #to authorize as a valid user
