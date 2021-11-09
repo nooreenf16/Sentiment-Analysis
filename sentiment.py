@@ -18,9 +18,9 @@ from nltk.stem.porter import PorterStemmer
 from spellchecker import SpellChecker
 from textblob import TextBlob
 
-consumer_key = 'D2ODhkO8XelW1GMADfgJd9xzv'
-consumer_secret = 'BGuYPX18vVOkug9A3OLMo7JQhWVeWsISPfuhq9EhIbW23g3Rll'
-callback_uri = 'oob'
+consumer_key = '--'
+consumer_secret = '--'
+callback_uri = '--'
 
 #to authorize as a valid user
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret, callback_uri)
